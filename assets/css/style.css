@@ -16,8 +16,9 @@ p {
 
 #targetNumber {
 	background-color: blue;
-	padding: 40px;
+	padding: 35px;
 	margin-top: 10px;
+	font-size: 20px;
 }
 
 #scores {
