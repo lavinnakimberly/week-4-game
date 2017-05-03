@@ -1,0 +1,28 @@
+h1 {
+	color: white;
+	background-color: orange;
+	padding: 20px;
+	font-size: 24px;
+}
+
+#intro {
+	background-color: yellow;
+	padding: 40px 10px 40px 10px;
+}
+
+p {
+	color: green;
+}
+
+#targetNumber {
+	background-color: blue;
+	padding: 40px;
+	margin-top: 10px;
+}
+
+#scores {
+	background-color: blue;
+	padding: 30px;
+	margin: 10px;
+}
+
