@@ -1,29 +1,68 @@
+body{
+	background-image: url('../images/crystalbackground.jpg');
+}
+
 h1 {
 	color: white;
-	background-color: orange;
+	background-color: #7B68EE;
 	padding: 20px;
 	font-size: 24px;
 }
 
 #intro {
-	background-color: yellow;
+	background-color: #7FFFD4;
+	color: #008080;
 	padding: 40px 10px 40px 10px;
 }
 
 p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: green;
 }
 
 #targetNumber {
-	background-color: blue;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background-color: #20B2AA;
+	color: #800080;
 	padding: 35px;
 	margin-top: 10px;
 	font-size: 20px;
 }
 
 #scores {
-	background-color: blue;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background-color: #D8BFD8;
+	color: #800080;
 	padding: 30px;
 	margin: 10px;
+	font-size: 12px
+}
+
+img {
+	height: 100px;
+	padding: 10px;
+}
+
+#gem4 {
+	width: 10px;
+	height: 10px;
+}
+
+#yourtotalscore {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background-color: #DB7093;
+	color: white;
+	padding: 10px;
+
+}
+
+#yourScore {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background-color: #DB7093;
+	padding: 35px;
+	margin-top: 10px;
+	font-size: 20px;
+	color: white;
+
 }
 
